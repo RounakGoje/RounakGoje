@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 3 years of professional experience as a Data Engineer at Persistent Systems<br><br>☁️ Worked extensively with Azure and GCP for cloud-based data engineering solutions<br><br>🔄 Designed and maintained data pipelines, ETL processes, and cloud infrastructure<br><br>🎓 Currently pursuing M.Tech in Data Science<br><br>🧪 Engaged in a research-based project on Generative AI tools<br><br>🧠 Focus area: Machine Learning and Neural Networks, especially GANs (Generative Adversarial Networks)
+💼 3 years of professional experience as a Data Engineer and GenAI Engineer at Persistent Systems<br><br>☁️ Worked extensively with Azure and GCP for cloud-based data engineering solutions<br><br>🔄 Designed and maintained data pipelines, ETL processes, and cloud infrastructure<br><br>🎓 Currently pursuing M.Tech in Data Science<br><br>🧪 Engaged in a research-based project on Generative AI tools<br><br>🧠 Focus area: Machine Learning and Neural Networks, especially GANs (Generative Adversarial Networks)
 
 
 ## 🌐 Socials:
